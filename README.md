@@ -1,10 +1,3 @@
-# Huddle Landing Page (React & Styled Components)
+Simple landing page made using styled-components
 
-Project from my styled components crash course
 
-## Usage
-
-```
-npm install
-npm start
-```
